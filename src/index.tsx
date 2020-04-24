@@ -1,3 +1,5 @@
+import './css/custom.scss';
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
