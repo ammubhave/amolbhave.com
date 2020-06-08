@@ -18,7 +18,7 @@ const App: React.FunctionComponent = (props) => {
                 <div className="container p-4">
                   <div>Hello! I am</div>
                   <h1 style={{ fontWeight: "bold" }}>Amol Bhave</h1>
-                  <h2>Software Engineer @ Facebook</h2>
+                  <h2>Core Developer @ Hudson River Trading</h2>
                   <br />
                   <a target="_blank" href="https://linkedin.com/in/amolbhave"><i className="fab fa-linkedin display-4" /></a>
                 </div>
